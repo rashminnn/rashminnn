@@ -7,18 +7,17 @@ I am an undergraduate student in Electronic and Telecommunication Engineering wi
   
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat&logo=raspberry-pi)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ## 📈 GitHub Stats
 
 ![Rashmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashminnn&show_icons=true&theme=radical)
