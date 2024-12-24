@@ -27,6 +27,6 @@ I am an undergraduate student in Electronic and Telecommunication Engineering wi
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmin-munasinghe-313b58299/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](rashminpunthila10@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rashminpunthila10@gmail.com)
 
 ![Visitor Count](https://profile-counter.glitch.me/rashminnn/count.svg)
