@@ -8,14 +8,14 @@ I am an undergraduate student in Electronic and Telecommunication Engineering wi
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat&logo=raspberry-pi)
 
